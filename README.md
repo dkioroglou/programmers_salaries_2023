@@ -6,4 +6,4 @@ This is a simple analysis on data collected by a survey on 2023. The survey conc
 * [Link](https://youtu.be/e3SMiwLEw1c?si=MyAi5SlvjX-gRDBL) to Youtube video about the data by SocialNerds (video is in Greek).
 * [Link](https://docs.google.com/spreadsheets/d/1DP4OZBOsxx2-3Ej1srAPsuGfyiWU7XfTX6f4bFxkKN4/edit#gid=1071387860](https://docs.google.com/spreadsheets/d/1DP4OZBOsxx2-3Ej1srAPsuGfyiWU7XfTX6f4bFxkKN4/edit?usp=sharing)https://docs.google.com/spreadsheets/d/1DP4OZBOsxx2-3Ej1srAPsuGfyiWU7XfTX6f4bFxkKN4/edit?usp=sharing) to original data that were shared by SocialNerds.
 
-Simple nalysis performed by `dkioroglou` can be found [here](https://github.com/dkioroglou/programmers_salaries_2023/blob/main/data_analysis.ipynb)
+Simple analysis performed by `dkioroglou` can be found [here](https://github.com/dkioroglou/programmers_salaries_2023/blob/main/data_analysis.ipynb)
